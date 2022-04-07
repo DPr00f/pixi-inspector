@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "pixi-spine": "^1.0.3",
-    "pixi.js": "^3.0.7",
+    "pixi.js": "^4.0.0",
     "react": "^0.14.2",
     "react-dom": "^0.14.2",
     "rx": "^4.0.6"
